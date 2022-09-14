@@ -1,0 +1,36 @@
+shorcode es7 react/redux
+-----------
+rafce - arrow function component export
+
+****************
+
+not found in this tutorial
+style component
+css modules
+
+
+*****************
+
+react developer tools extension chrome
+-----------
+
+npm install -g json-server
+json-server --watch data/db.json --port 4000
+
+#11 - Conditional loading and Error messages - كورس تعلم React
+
+
+npm install react-router-dom
+npm rem react-router-dom
+
+npm install --global yarn
+
+----------
+npm run dev
+
+
+{backtick `}
+{curly brackets {} }
+{react fragment <></>}
+{jsx JavaScript Syntax Extension js xml (<h1>Hi</h1>)}
+

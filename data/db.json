@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis delectus nemo possimus aut repellendus nesciunt nam aspernatur quibusdam et praesentium aliquid hic minima numquam explicabo quidem, magnam dolorem autem velit.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "author": "Admin"
+    },
+    {
+      "id": 3,
+      "title": "Coding Is Life",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis delectus nemo possimus aut repellendus nesciunt nam aspernatur quibusdam et praesentium aliquid hic minima numquam explicabo quidem, magnam dolorem autem velit.",
+      "image": "https://images.unsplash.com/photo-1454165205744-3b78555e5572",
+      "author": "Admin"
+    },
+    {
+      "title": "dsgdg",
+      "body": "dgdfgsdfg",
+      "image": "https://images.unsplash.com/photo-1660160473454-d3781dd93755?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "author": "codv",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "body": "teste",
+      "image": "https://images.unsplash.com/photo-1662874616833-78a4a4f17077?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "author": "admin",
+      "id": 6
+    }
+  ]
+}
